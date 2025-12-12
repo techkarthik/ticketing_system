@@ -1,0 +1,42 @@
+flutter application for internalticketing system with mongodb database
+design for tablet and mobile and windows also
+create a login screen with professional most beautifull design,
+after logging in there should be a professional  dash board ,
+
+create a collection for usermaster with username as email,password with basic encryption,
+mobilenumber,role,isadmin,
+
+roles are SUPERADMIN,ADMIN,STAFF
+
+NEED TO OPTION TO KEEP LOGGINED IN FOR IF THAT OPTION IS SELECTED WE AVOID LOGIN WINDOW,
+ONLY SUPERADMIN AND ADMIN CAN ADD ADDITION USERS ,CREATE ONE ADMIN USER NAME BY DEFAULT AND THE ADMIN USER IS TECHKARTHIKMAHALINGAM@GMAIL.COM AND PASSWORD IS admin.
+
+use basic encryption for  handling passwords
+
+quit prefession and beautifull background required for login screen, user need option to change their password once they loggined in, create menu to add users as i already asked,
+
+
+i need menu a menu  to create /view/edit branches
+creating user must require branches
+COLUMN NAME FOR BRANCHES  branchname,location,active,branchtype
+ branchtype is retail,factory,wholesale
+branches example,THRISSUR,TRIVANDRUM,TIRUNELVELI,TRICHY,MADURAI,COIMBATORE
+
+i need an another menu to create/edit/view for departments (SOFTWARE,HARDWARE,ACCOUNTS,INTERNAL,EXTERNAL,MANAGEMENT,SHOP MANAGMENRT)
+
+
+still i am not able to change the password 
+
+
+
+ONCE I CLICKED THE DEPARTMENT OR BRANCHES MENU, ALL EXISTING DATA SHOULD BE PROJECTED IN SCREEN,
+adding screen for brtanches/department need with bit big size, now the size is too small ,at least make the login screen size
+
+
+for department and branch creation ,its says not authenticated
+
+
+
+ 
+
+

@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+android/app/build
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
